@@ -1,5 +1,5 @@
 (TeX-add-style-hook
- "AntonioLineroCV"
+ "SESE_FAKE_CV"
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("moderncv" "11pt")))
