@@ -7,5 +7,5 @@ blurb: "BSG Proceedings 29. The International Conference Differential Geometry -
 source: "http://www.mathem.pub.ro/proc/bsgp-29/K29-ch-ZKP94.pdf"
 image:
   url: /images/3DFace.jpg
-  alt: "linero2021"
+  alt: "3DFace"
 ---

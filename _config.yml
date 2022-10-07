@@ -5,14 +5,12 @@
 title: SESE
 description: |
   The web page of Dr. SeSe,
-  Assistant Professor in the Department of
+  Ph.D in the Department of
   Statistics, Florida State University
 owner: SESE
 first_published: 2015
 email: seungchoi1850@gmail.com
-# baseurl: "/~arlinero" # "http://ani.stat.fsu.edu/~arlinero" # the subpath of your site, e.g. /blog
 baseurl: ""
-# url: "http://ani.stat.fsu.edu"
 # url: "http://localhost:4000"
 permalink: pretty
 collections:
