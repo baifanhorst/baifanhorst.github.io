@@ -1,4 +1,4 @@
-# Graduation Gift Project for Yinpu Li!
+# All About Yinpu Li!
 @YinpuLi
 
-This is a gift to Yinpu Li to celebrate her Ph.D graduation and the brand new future ahead!
+This is a personal webpage for Yinpu Li!
