@@ -28,8 +28,8 @@
           return;
         }
 
-        var emailName = 'antonio.linero';
-        var emailDomain = 'austin.utexas.edu';
+        var emailName = 'seungchoi1850';
+        var emailDomain = 'gmail.com';
         var $email = $(
           '<span id="email">' +
             '<a href="mailto:' +
