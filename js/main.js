@@ -28,8 +28,8 @@
           return;
         }
 
-        var emailName = 'seungchoi1850';
-        var emailDomain = 'gmail.com';
+        var emailName = 'yinpuli';
+        var emailDomain = 'icloud.com';
         var $email = $(
           '<span id="email">' +
             '<a href="mailto:' +
