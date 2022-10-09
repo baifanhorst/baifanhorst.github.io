@@ -6,6 +6,6 @@ title: "A closed-loop multi-scale model for intrinsic frequency-dependent regula
 blurb: "Mathematical Biosciences"
 source: "https://www.sciencedirect.com/science/article/abs/pii/S0025556421001632?via%3Dihub"
 image:
-  url: /images/binary_tree_5.png
-  alt: "binary_tree_5"
+  url: /images/math-bio.jpeg
+  alt: "math-bio"
 ---

@@ -6,6 +6,6 @@ title: "Investigation of cell aggregation on the substrate of a parallel-plate f
 blurb: "Cellular and Molecular Biology"
 source: "https://85.236.156.232/index.php/CMB/article/view/656"
 image:
-  url: /images/2015.jpeg
-  alt: "2015"
+  url: /images/rare_mount.jpeg
+  alt: "rare_mount"
 ---
