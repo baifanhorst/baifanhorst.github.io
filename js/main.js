@@ -28,8 +28,8 @@
           return;
         }
 
-        var emailName = 'yinpuli';
-        var emailDomain = 'icloud.com';
+        var emailName = 'baifanhorst';
+        var emailDomain = 'gmail.com';
         var $email = $(
           '<span id="email">' +
             '<a href="mailto:' +

@@ -1,4 +1,4 @@
-# All About Yinpu Li!
+# All About Fan Bai!
 @YinpuLi
 
-This is a personal webpage for Yinpu Li!
+This is a personal webpage for Fan Bai!
