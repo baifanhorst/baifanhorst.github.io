@@ -2,6 +2,7 @@
 authors: "Li, Yinpu"
 displayDate: "2021"
 date: Dec-2021
+short_title: "Bayesian Ensemble Tree Models for Nonparametric Problems"
 title: "Bayesian Ensemble Tree Models for Nonparametric Problems"
 blurb: "The Florida State University ProQuest Dissertations Publishing"
 source: "https://www.proquest.com/docview/2628787838?pq-origsite=gscholar&fromopenview=true"
