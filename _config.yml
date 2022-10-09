@@ -2,14 +2,14 @@
 #
 
 # Site settings
-title: Fan Bai
+title: Yinpu Li
 description: |
-  The web page of Dr. Fan Bai,
+  The web page of Dr. Yinpu Li,
   Ph.D in the Department of
-  Maths, Florida State University
-owner: Fan Bai
+  Statistics, Florida State University
+owner: Yinpu Li
 first_published: 2022
-email:  baifanhorst@gmail.com
+email: yinpuli@icloud.com
 baseurl: ""
 # url: "http://localhost:4000"
 permalink: pretty
