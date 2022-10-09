@@ -1,19 +1,31 @@
 ---
-layout: archive
+layout: default 
 title: "Blog posts"
 description: "Thinking will not overcome fear but action will."
 ---
 
-{% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">
-            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+<!-- Main -->
+<div class="wrapper style1">
+
+  <div class="container">
+    <article id="main" class="special">
+      <!-- <header>
+        <h2 id="about">Yinpu Li</h2>
+      </header> -->
+      <p>
+          I am testing the blog test page.
+          
+      </p>
+
+      <section>
+        <header>
+          <h3 id="research">Research</h3>
+        </header>
+        <p>
+           Testing blog 1.
+        </p>
+      </section>
+    </article>
+  </div>
+
+</div>
