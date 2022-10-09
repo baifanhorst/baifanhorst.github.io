@@ -1,31 +1,14 @@
 ---
-layout: default 
-title: "Blog posts"
-description: "Thinking will not overcome fear but action will."
+layout: default
+title: Posts
 ---
 
-<!-- Main -->
-<div class="wrapper style1">
+<div class="posts">
 
-  <div class="container">
-    <article id="main" class="special">
-      <!-- <header>
-        <h2 id="about">Yinpu Li</h2>
-      </header> -->
-      <p>
-          I am testing the blog test page.
-          
-      </p>
+  {% assign posts = (site.posts | sort: 'date') | reverse %}
 
-      <section>
-        <header>
-          <h3 id="research">Research</h3>
-        </header>
-        <p>
-           Testing blog 1.
-        </p>
-      </section>
-    </article>
-  </div>
+  {% for post in posts %}
+    {% include post.html post=post %}
+  {% endfor %}
 
 </div>
