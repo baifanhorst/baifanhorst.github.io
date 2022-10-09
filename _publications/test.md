@@ -7,8 +7,8 @@ title: "This is my test work"
 blurb: ""
 source: "https://convoy.com/"
 image:
-  url: /images/binary_tree_5.png
-  alt: "binary_tree_5"
+  url: /images/3DFace.jpg
+  alt: "3DFace"
 ---
 
 
