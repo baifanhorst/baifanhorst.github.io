@@ -15,4 +15,3 @@ baseurl: ""
 permalink: pretty
 collections:
   publications:
-  posts:
